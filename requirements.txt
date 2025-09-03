@@ -5,6 +5,6 @@ scipy
 pickle
 datetime
 typing
-matplotlib
+matplotlib.pyplot
 time
 re
