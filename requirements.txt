@@ -6,4 +6,3 @@ cloudpickle
 datetime
 typing
 matplotlib
-regex
