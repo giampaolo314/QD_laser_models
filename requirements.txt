@@ -6,5 +6,5 @@ cloudpickle
 datetime
 typing
 matplotlib
-time
+conda-forge::time
 re
