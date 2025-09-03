@@ -2,7 +2,7 @@ sphinx
 sphinx-rtd-theme
 numpy
 scipy
-pickle
+cloudpickle
 datetime
 typing
 matplotlib.pyplot
