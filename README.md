@@ -8,14 +8,13 @@ This repository contains the Python class QD that simulates models of quantum do
 D'Alessandro, G.; Lippi, G. L.; Oppo, G.-L. & Papoff, F. “Thermal,
 Quantum Antibunching and Lasing Thresholds from Single Emitters to
 Macroscopic Devices” Phys. Rev. Lett., 2021, **126**, 063902 - DOI:
-`10.1103/PhysRevLett.126.063902
-<https://doi.org/10.1103/PhysRevLett.126.063902>`_
+[10.1103/PhysRevLett.126.063902](https://doi.org/10.1103/PhysRevLett.126.063902)_
 
 [2] **Two-Particle Model (TPM)** - Papoff, F.; Carroll, M. A.; Lippi,
 G. L.; Oppo, G.-L. & D’Alessandro, G. “Quantum correlations, mixed
 states, and bistability at the onset of lasing” Physical Review A,
-2025, **111**, l011501 - DOI: `10.1103/PhysRevA.111.L011501
-<https://doi.org/10.1103/PhysRevA.111.L011501>`_
+2025, **111**, l011501 - DOI: [10.1103/PhysRevA.111.L011501]
+(https://doi.org/10.1103/PhysRevA.111.L011501)
 
 [3] **Two-Particle Model with negligible fermion-fermion interactions
 (TPM\_1F) and models with different quantum dots (CIM\_d, TPM\_d and
@@ -29,9 +28,9 @@ Contact: Francesco Papoff [f.papoff@strath.ac.uk]
 
 ## Documentation
 
-Please look at the “Quantum dots with coherent fields” site on `Read the Docs<https://app.readthedocs.org/>`:  
+Please look at the “Quantum dots with coherent fields” site on [Read the Docs](https://app.readthedocs.org/):  
 
-`https://qd-laser-models.readthedocs.io/en/latest/<https://qd-laser-models.readthedocs.io/en/latest/>`
+[https://qd-laser-models.readthedocs.io/en/latest](https://qd-laser-models.readthedocs.io/en/latest/)
 
 ## License
 
