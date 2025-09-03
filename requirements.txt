@@ -1,3 +1,10 @@
 sphinx
 sphinx-rtd-theme
 numpy
+scipy
+pickle
+datetime
+typing
+matplotlib
+time
+re
