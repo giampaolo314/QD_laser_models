@@ -5,6 +5,6 @@ scipy
 cloudpickle
 datetime
 typing
-matplotlib.pyplot
+matplotlib
 time
 re
