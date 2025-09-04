@@ -32,6 +32,14 @@ Please look at the “Quantum dots with coherent fields” site on [Read the Doc
 
 [https://qd-laser-models.readthedocs.io/en/latest](https://qd-laser-models.readthedocs.io/en/latest/)
 
+## Files
+
+The quantum dot class file, **QD.py**, is the only file required to run the various quantum dots models. It can be downloaded and installed indepedently of any other file in this repository. See the file header for the Python modules required by it.  
+
+The **Makefile** and the folders **docs** and **builds** are required to produce the documentation using [sphinx](https://www.sphinx-doc.org/en/master/index.html). You can type `make html` to produce the html version of the documentation (this requires the Python modules sphinx and sphinx-rtd-theme to be installed).  
+
+The files **.readthedocs.yaml** and **docs/requirements.txt** are required by  [Read the Docs](https://app.readthedocs.org/) to produce the documentation.  
+
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
