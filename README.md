@@ -28,9 +28,7 @@ Contact: Francesco Papoff [f.papoff@strath.ac.uk]
 
 ## Documentation
 
-Please look at the “Quantum dots with coherent fields” site on [Read the Docs](https://app.readthedocs.org/):  
-
-[https://qd-laser-models.readthedocs.io/en/latest](https://qd-laser-models.readthedocs.io/en/latest/)
+The documentation is available at [https://qd-laser-models.readthedocs.io/en/latest](https://qd-laser-models.readthedocs.io/en/latest/)
 
 ## Files
 
