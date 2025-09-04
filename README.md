@@ -39,21 +39,3 @@ The quantum dot class file, **QD.py**, is the only file required to run the vari
 The **Makefile** and the folders **docs** and **builds** are required to produce the documentation using [sphinx](https://www.sphinx-doc.org/en/master/index.html). You can type `make html` to produce the html version of the documentation (this requires the Python modules sphinx and sphinx-rtd-theme to be installed).  
 
 The files **.readthedocs.yaml** and **docs/requirements.txt** are required by  [Read the Docs](https://app.readthedocs.org/) to produce the documentation.  
-
-## License
-
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-## Disclaimer
-
-This software is provided "as is," without warranty of any kind, express or 
-implied, including but not limited to the warranties of merchantability, 
-fitness for a particular purpose, and non-infringement. In no event shall 
-the authors or copyright holders be liable for any claim, damages, or 
-other liability, whether in an action of contract, tort, or otherwise, 
-arising from, out of, or in connection with the software or the use or 
-other dealings in the software.
-
-The user assumes all responsibility and risk for the use of this software. 
-We make no representations or warranties about the suitability, reliability, 
-availability, timeliness, and accuracy of the software for any purpose.
