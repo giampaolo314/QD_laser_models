@@ -9,7 +9,7 @@ D'Alessandro, G.; Lippi, G. L.; Oppo, G.-L. & Papoff, F. “Thermal, Quantum Ant
 
 [2] **Two-Particle Model (TPM)** - Papoff, F.; Carroll, M. A.; Lippi, G. L.; Oppo, G.-L. & D’Alessandro, G. “Quantum correlations, mixed states, and bistability at the onset of lasing” Physical Review A, 2025, **111**, l011501 - DOI: [10.1103/PhysRevA.111.L011501](https://doi.org/10.1103/PhysRevA.111.L011501)
 
-[3] **Two-Particle Model with negligible fermion-fermion interactions (TPM\_1F) and models with different quantum dots (CIM\_d, TPM\_d and TPM_1F\_d)** - D’Alessandro, G.; Lippi, G. L. & Papoff, F. “Threshold Behavior in Quantum Dot Nanolasers: Effects of Inhomogeneous Broadening” - Submitted to Phys. Rev. A
+[3] **Two-Particle Model with negligible fermion-fermion interactions (TPM\_1F) and models with different quantum dots (CIM\_d, TPM\_d and TPM_1F\_d)** - D’Alessandro, G.; Lippi, G. L. & Papoff, F. “Threshold Behavior in Quantum Dot Nanolasers: Effects of Inhomogeneous Broadening” - Phys. Rev. A, 2025, **112**, 063521 - DOI: [10.1103/m9px-p28x](https://doi.org/10.1103/m9px-p28x)
 
 Please cite these papers if you use these models.
 
