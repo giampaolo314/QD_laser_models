@@ -72,7 +72,7 @@ Below are a few examples of how to use this class and its methods. Other example
     import QD
     
     # In the following example replace QD_CIM with the model of your choice. Please
-    # keep in m ind that QD_TPM_d is much much slower than any of the other models
+    # keep in mind that QD_TPM_d is much much slower than any of the other models
     # and even integrating for a few time units may take hours.
     
     qd = QD.QD_CIM()
